@@ -7,7 +7,7 @@
 # data
 *.csv
 *.tsv
-
+*.zip
 *.gsv
 *.json
 
